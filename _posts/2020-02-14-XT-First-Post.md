@@ -1,13 +1,12 @@
 ```bash
 ---
-layout:     post                    # 使用的布局（不需要改）
-title:      My First Post               # 标题 
-subtitle:   On valentine's day      #副标题
-date:       2020-02-14              # 时间
-author:     Xiaotong                      # 作者
-header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
+layout:     post                    
+title:      My First Post               
+subtitle:   for xt      
+date:       2020-02-14              
+author:     Xiaotong                      
+catalog: true                       
+tags:                               
     - 生活
 ---
 ```
