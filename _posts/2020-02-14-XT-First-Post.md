@@ -1,4 +1,3 @@
-```bash
 ---
 layout:     post                    
 title:      My First Post               
@@ -9,7 +8,6 @@ catalog: true
 tags:                               
     - 生活
 ---
-```
 
 
 
