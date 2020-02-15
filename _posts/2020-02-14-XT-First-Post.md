@@ -1,7 +1,6 @@
 ---
 layout:     post                    
-title:      My First Post               
-subtitle:   for xt      
+title:      My First Post                   
 date:       2020-02-14              
 author:     Xiaotong                      
 catalog: true                       
