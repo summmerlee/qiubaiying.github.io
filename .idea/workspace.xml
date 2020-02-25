@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+            <state relative-caret-position="226">
+              <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#strong#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#strong#0;n#li#1;n#ul#0;n#div#0;n#!!top" expanded="true" />
@@ -135,7 +135,7 @@
       <workItem from="1581856441124" duration="1487000" />
       <workItem from="1581858700043" duration="557000" />
       <workItem from="1581903003981" duration="31000" />
-      <workItem from="1582608780467" duration="675000" />
+      <workItem from="1582608780467" duration="950000" />
     </task>
     <task id="LOCAL-00001" summary="change about me">
       <created>1581757587779</created>
@@ -218,7 +218,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7973000" />
+    <option name="totallyTimeSpent" value="8248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-15" y="32" width="1404" height="790" extended-state="0" />
@@ -415,8 +415,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+        <state relative-caret-position="226">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
           <folding>
             <element signature="n#style#0;n#span#0;n#strong#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#strong#0;n#li#1;n#ul#0;n#div#0;n#!!top" expanded="true" />
