@@ -1,6 +1,6 @@
 ---
 layout:     post                    
-title:      My First Post                   
+title:      First Day                   
 date:       2020-02-14              
 author:     Xiaotong                      
 catalog: true                       
